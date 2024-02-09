@@ -1,1 +1,1 @@
-"Changement depuis l shell du Readme de la branche master"  
+"This might lead to a conflict, KEEP AND REST CALM" 
